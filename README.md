@@ -61,7 +61,7 @@ This project addresses the following deliverables for Week 2 and Week 3 of the R
     ```bash
     python main_pipeline.py
     ```
-3.  This will generate `cleaned_solar_data.csv`, `forecast_next_year.csv`, `weekly_summary.txt`, and `solar_generation_trend.png` in the same directory.
+3.  This will generate `cleaned_solar_data.csv`, `forecast_next_year.csv`, `weekly_summary.txt`, and `solar_generation_trend.png` in your downloads. `forecast_next_year.csv` has a problem where the dates for October, November, and December are replaced by # (Number signs). You can still see the dates if you click on them.
 
 ## Models and Metrics
 
